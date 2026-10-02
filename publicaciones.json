@@ -1,0 +1,424 @@
+{
+ "marca": "IA sin Humo",
+ "base_url": "https://raw.githubusercontent.com/lero1313/iasinhumo-videos/main/",
+ "metricool_blog_id": "7191439",
+ "notas": "Fuente única para el agente de publicación. La oficina añade aquí cada vídeo nuevo al subirlo. 'version' cambia si el archivo de vídeo cambia.",
+ "videos": [
+  {
+   "id": "01_radar_precios",
+   "fecha": "2026-10-05",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/01_radar_precios.mp4",
+    "sin_musica": "videos/01_radar_precios_voz.mp4",
+    "portada": "portadas/01_radar_precios_portada.png"
+   },
+   "version": "a07706bda8dc4bdd-a6b821a7205453b0",
+   "comentario_fijado": "¿Qué miras tú al elegir modelo: precio, velocidad o calidad de la respuesta?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "GPT-6 Sol, Luna y Claude Opus 5.5 bajan precios. Pero precio por token no es coste por tarea. #IA #ChatGPT #Claude #OpenAI · Voz IA",
+     "titulo": "GPT-6 Sol vs Claude Opus 5.5: ¿cuál es más barato?"
+    },
+    "instagram": {
+     "texto": "El 22/09 Anthropic y OpenAI bajaron precios con 90 minutos de diferencia.\nSol: 2 $/10 $ · Luna: 0,10 $/0,50 $ · Opus 5.5: 4 $/20 $ (por millón de tokens, entrada/salida).\nExtra: si usas ChatGPT gratis o Go, puedes probar GPT-6 Luna en la app de escritorio. Si pagas Claude, Opus 5.5 ya está disponible con límites de uso ampliados.\nRecuerda: todas las cifras de rendimiento son de las propias empresas.\nGuárdalo para cuando tengas que elegir modelo y compártelo con quien paga la factura de la API.\n#InteligenciaArtificial #ChatGPT #Claude #IA #Productividad\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "GPT-6 Sol vs Claude Opus 5.5: ¿cuál es más barato?",
+     "texto": "El 22 de septiembre de 2026, Anthropic lanzó Claude Opus 5.5 y OpenAI lanzó GPT-6 Sol y Luna. Comparamos precios y explicamos por qué el precio por token no equivale al coste por tarea. Las cifras de rendimiento son de las propias empresas.\nFuentes:\n- OpenAI, \"Introducing GPT-6 Sol and Luna\" (22/09/2026): https://openai.com/index/introducing-gpt-6-sol-and-luna/\n- Anthropic, \"Introducing Claude Opus 5.5\" (22/09/2026): https://www.anthropic.com/claude-opus-5-5\n- TechCrunch (22/09/2026): https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/\n- TechCrunch (22/09/2026): https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/\n- MacRumors (22/09/2026): https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "02_como_alucinaciones",
+   "fecha": "2026-10-07",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/02_como_alucinaciones.mp4",
+    "sin_musica": "videos/02_como_alucinaciones_voz.mp4",
+    "portada": "portadas/02_como_alucinaciones_portada.png"
+   },
+   "version": "dbbbddfe45b68398-ced9597b2501fa6f",
+   "comentario_fijado": "¿Cuál es la alucinación más convincente que te ha colado una IA?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "La IA se inventa cosas porque la evaluamos como un test sin penalización: adivinar sale a cuenta. #IA #ChatGPT #Alucinaciones #AprendeEnTikTok · Voz IA",
+     "titulo": "Por qué la IA alucina (y cómo reducirlo)"
+    },
+    "instagram": {
+     "texto": "Las \"alucinaciones\" no son un fallo misterioso: el entrenamiento y la evaluación premian adivinar antes que decir \"no lo sé\" (OpenAI, 2025).\nEn el test SimpleQA, el modelo que se abstenía cuando no sabía falló el 26 %; el que casi nunca se abstenía, el 75 %.\nLos datos arbitrarios y poco frecuentes (cumpleaños, títulos de tesis) son los más propensos a inventarse.\nPrompt útil: \"Si no estás seguro, dilo y dime qué fuente lo confirmaría\".\nGuárdalo y compártelo con quien copia respuestas de la IA sin revisarlas.\n#InteligenciaArtificial #ChatGPT #IA #PensamientoCritico\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Por qué la IA alucina (y cómo reducirlo)",
+     "texto": "Las IA se inventan datos porque su entrenamiento y evaluación premian adivinar por encima de admitir incertidumbre. Lo explicamos con la analogía del examen tipo test.\nFuentes:\n- OpenAI, \"Why language models hallucinate\" (05/09/2025): https://openai.com/index/why-language-models-hallucinate/\n- Kalai, Nachum, Vempala y Zhang, arXiv 2509.04664 (sept. 2025): https://arxiv.org/pdf/2509.04664\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "03_radar_astra_agi",
+   "fecha": "2026-10-09",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/03_radar_astra_agi.mp4",
+    "sin_musica": "videos/03_radar_astra_agi_voz.mp4",
+    "portada": "portadas/03_radar_astra_agi_portada.png"
+   },
+   "version": "3f5445b921cd1bfa-040f4ccc4a6956d7",
+   "comentario_fijado": "Para ti, ¿qué tendría que hacer una IA para llamarla AGI de verdad?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "OpenAI vende GPT-6 Astra como \"la era AGI\". Miramos los datos sin humo. ¿Tú qué opinas? #IA #OpenAI #AGI #ChatGPT · Voz IA",
+     "titulo": "GPT-6 Astra: ¿es AGI de verdad? Los datos"
+    },
+    "instagram": {
+     "texto": "OpenAI presentó GPT-6 Astra y su presidente, Greg Brockman, lo resumió así: \"Welcome to the AGI era\".\nLo que dicen los datos (todos de OpenAI): 72,6 % en OSWorld 2.0, frente al 65,7 % de GPT-5.6 Sol. Y según su propio marco de seguridad, alcanza el umbral \"Critical\" en ciberseguridad, por lo que esas capacidades están restringidas.\nEstá en Plus, Pro, Business, Enterprise y la API (10 $/50 $ por millón de tokens).\nMás capaz no significa infalible. Guárdalo y compártelo con quien ya da la AGI por hecha.\n#InteligenciaArtificial #OpenAI #AGI #IA\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "GPT-6 Astra: ¿es AGI de verdad? Los datos",
+     "texto": "OpenAI presentó GPT-6 Astra el 3 de septiembre de 2026 y habló de \"la era AGI\". Revisamos los datos: todos son de la propia OpenAI y no hay una definición consensuada de AGI.\nFuentes:\n- Axios, \"Welcome to the AGI era, OpenAI says as GPT-6 Astra debuts\" (03/09/2026): https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman\n- OpenAI, \"GPT-6 Astra: A new generation of intelligence\": https://openai.com/index/gpt-6-astra/\n- OpenAI, \"Path to Astra: critical capabilities and frontier safeguards\": https://openai.com/index/path-to-astra/\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "04_usalo_privacidad_chatgpt",
+   "fecha": "2026-10-12",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_verificacion",
+   "archivos": {
+    "con_musica": "videos/04_usalo_privacidad_chatgpt.mp4",
+    "sin_musica": "videos/04_usalo_privacidad_chatgpt_voz.mp4",
+    "portada": "portadas/04_usalo_privacidad_chatgpt_portada.png"
+   },
+   "version": "4649e476b9add6b2-4b8f855d849d2d82",
+   "comentario_fijado": "¿Sabías lo del pulgar? ¿Tenías activado el entrenamiento?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Así evitas que ChatGPT entrene con tus conversaciones (y ojo con el pulgar arriba o abajo). #ChatGPT #Privacidad #IA #TipsIA · Voz IA",
+     "titulo": "Privacidad en ChatGPT: desactiva el entrenamiento"
+    },
+    "instagram": {
+     "texto": "Ruta rápida: Configuración → Controles de datos → desactiva \"Mejorar el modelo para todos\".\nChat temporal: no queda en el historial, no crea memorias y no entrena el modelo (puede guardarse hasta 30 días por seguridad).\nOjo: valorar una respuesta con el pulgar puede hacer que esa conversación se use para entrenar, aunque tengas el ajuste desactivado.\nGuárdalo y compártelo con tu equipo antes de que alguien pegue un documento confidencial.\n#ChatGPT #Privacidad #InteligenciaArtificial #IA\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Privacidad en ChatGPT: desactiva el entrenamiento",
+     "texto": "Cómo impedir que ChatGPT use tus conversaciones para entrenar el modelo, cómo usar el chat temporal y qué pasa si valoras respuestas con el pulgar.\nFuente:\n- OpenAI Help Center, \"Data controls in ChatGPT\" (consultado el 28/09/2026): https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "05_radar_siri_ai",
+   "fecha": "2026-10-14",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/05_radar_siri_ai.mp4",
+    "sin_musica": "videos/05_radar_siri_ai_voz.mp4",
+    "portada": "portadas/05_radar_siri_ai_portada.png"
+   },
+   "version": "f7fbdb20938daf4f-9fa6812391fba2bc",
+   "comentario_fijado": "¿Desde qué país me ves y la vas a probar en inglés o esperas al español?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Siri AI ya está aquí… pero no en iPhone en la UE. En Latam llegará antes que en España. ¿Desde dónde me ves? #Siri #Apple #iOS27 #IA · Voz IA",
+     "titulo": "Siri AI en iOS 27: ¿llega a España y Latam?"
+    },
+    "instagram": {
+     "texto": "Siri AI (iOS 27) entiende tu contexto personal, ve tu pantalla y actúa dentro de las apps. Está hecha con Apple Foundation Models \"en colaboración con Google y sus modelos Gemini\".\nCompatibles: iPhone 16 o posterior, iPhone 15 Pro/Pro Max, iPad M1+, iPad mini A17 Pro, Mac M1+, Vision Pro y Apple Watch Series 9+, Ultra 2+ y SE 3.\nPrivacidad: según Apple, procesa en el dispositivo y en Private Cloud Compute.\nUE: de momento no llega a iPhone, iPad ni Apple Watch (en Mac y Vision Pro sí, con un idioma compatible). China: no. Español: previsto para octubre.\nGuárdalo y compártelo con tu amigo que ya está actualizando el iPhone.\n#Siri #Apple #iOS27 #InteligenciaArtificial\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Siri AI en iOS 27: ¿llega a España y Latam?",
+     "texto": "Apple lanzó Siri AI con iOS 27 el 14 de septiembre de 2026. No estará disponible inicialmente en iPhone, iPad y Apple Watch en la UE, ni en China; llega primero en inglés y el español está previsto para octubre de 2026.\nFuentes:\n- Apple Newsroom, \"Siri AI, a profoundly more capable and personal assistant, is here\" (14/09/2026): https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/\n- Apple Newsroom, \"Major updates for Apple's software platforms are now available\" (sept. 2026): https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\n- CNBC (14/09/2026): https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "06_mito_empleo",
+   "fecha": "2026-10-16",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/06_mito_empleo.mp4",
+    "sin_musica": "videos/06_mito_empleo_voz.mp4",
+    "portada": "portadas/06_mito_empleo_portada.png"
+   },
+   "version": "75309e61ad16cc0d-7e9411d34fb00832",
+   "comentario_fijado": "¿En tu sector se está contratando menos gente junior? Cuéntalo.",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Sin despidos masivos por IA (2 estudios, EE. UU.), pero a jóvenes de 22-25 en empleos expuestos se les contrata menos. #IA #Empleo #Trabajo · Voz IA",
+     "titulo": "¿La IA destruye empleo? Lo que dicen los datos"
+    },
+    "instagram": {
+     "texto": "Mito: la IA provoca despidos masivos. Realidad: Yale (mayo 2026) y Stanford (agosto 2026), con datos de EE. UU., no ven destrucción generalizada.\nLa señal de alarma está en la entrada: entre los jóvenes de 22 a 25 años en ocupaciones muy expuestas, el empleo está un 19 % por debajo de lo que sería si hubiera seguido el ritmo de sus pares menos expuestos (15 % en julio de 2025), sobre todo porque se contrata menos, no porque se despida más.\nClave: el empleo cae donde la IA automatiza y se mantiene o sube donde complementa.\nGuárdalo y compártelo con quien está terminando la carrera.\n#InteligenciaArtificial #Empleo #IA #PrimerEmpleo\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "¿La IA destruye empleo? Lo que dicen los datos",
+     "texto": "Revisamos dos estudios recientes sobre IA y empleo: no hay destrucción masiva, pero sí una brecha creciente en la contratación de jóvenes de 22 a 25 años en ocupaciones expuestas.\nFuentes:\n- Yale Budget Lab (07/05/2026): https://budgetlab.yale.edu/research/what-we-do-and-dont-know-about-how-ai-affecting-labor-market\n- Stanford Digital Economy Lab (12/08/2026): https://digitaleconomy.stanford.edu/news/canariesaug26/\n- Paper (PDF, agosto 2026): https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "07_como_agentes",
+   "fecha": "2026-10-19",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/07_como_agentes.mp4",
+    "sin_musica": "videos/07_como_agentes_voz.mp4",
+    "portada": "portadas/07_como_agentes_portada.png"
+   },
+   "version": "8034508f49cd87ab-f732107a9ac4a0d2",
+   "comentario_fijado": "¿Qué tarea le darías a un agente y cuál no le darías nunca?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Workflow = receta. Agente = becario con un objetivo. Más flexible, pero hay que revisarlo. #IA #AgentesIA #Automatizacion #AprendeEnTikTok · Voz IA",
+     "titulo": "Qué es un agente de IA, explicado fácil"
+    },
+    "instagram": {
+     "texto": "Workflow: el modelo sigue pasos predefinidos en código. Agente: el propio modelo decide qué hacer y qué herramientas usar hasta terminar.\nAnthropic recomienda empezar por lo simple: los agentes ganan rendimiento a cambio de más coste, más latencia y errores que se acumulan.\nDato extra: según METR (2025), la duración de las tareas que una IA completa con un 50 % de éxito se ha duplicado aproximadamente cada 7 meses durante 6 años.\nGuárdalo y compártelo con quien quiere \"meter agentes\" en todo.\n#InteligenciaArtificial #AgentesIA #IA #Automatizacion\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Qué es un agente de IA, explicado fácil",
+     "texto": "Diferencia entre un workflow y un agente de IA con la analogía de la receta y el becario, y por qué conviene revisar lo que hace un agente.\nFuentes:\n- Anthropic, \"Building Effective AI Agents\" (19/12/2024): https://www.anthropic.com/engineering/building-effective-agents\n- METR, \"Measuring AI Ability to Complete Long Tasks\" (19/03/2025): https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/\n- METR, paper arXiv 2503.14499: https://arxiv.org/abs/2503.14499\n- OpenAI, GPT-6 Astra (sept. 2026): https://openai.com/index/gpt-6-astra/\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "08_usalo_gemini_notebook",
+   "fecha": "2026-10-21",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/08_usalo_gemini_notebook.mp4",
+    "sin_musica": "videos/08_usalo_gemini_notebook_voz.mp4",
+    "portada": "portadas/08_usalo_gemini_notebook_portada.png"
+   },
+   "version": "2c4c22f816b4dda4-b32506af6ccfb8fa",
+   "comentario_fijado": "¿Qué documento te gustaría que alguien te resumiera en un minuto?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Sube un PDF a Gemini Notebook (antes NotebookLM) y te hace un vídeo resumen de 1 minuto en español. #IA #Gemini #NotebookLM #Estudiar · Voz IA",
+     "titulo": "Gemini Notebook: convierte un PDF en vídeo"
+    },
+    "instagram": {
+     "texto": "Gemini Notebook es el nuevo nombre de NotebookLM (desde el 16/07/2026) y sigue siendo un producto independiente: notebooklm.google, app móvil o dentro de la app de Gemini.\nLos vídeos cortos (Short Video Overviews) están disponibles para todos y en más de 80 idiomas.\nSi estudias: Google ofrece a estudiantes que cumplan los requisitos 12 meses gratis de Google AI Plus en más de 140 mercados si lo canjeas antes del 31/12/2026 (one.google.com/ai-student).\nGuárdalo y compártelo con quien tiene un informe eterno que leer.\n#Gemini #NotebookLM #InteligenciaArtificial #Estudiantes\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Gemini Notebook: convierte un PDF en vídeo",
+     "texto": "Tutorial: cómo convertir un PDF en un vídeo resumen de unos 60 segundos con Gemini Notebook (antes NotebookLM).\nFuentes:\n- Google Blog, \"NotebookLM is now Gemini Notebook\" (16/07/2026): https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\n- Google Blog, \"Sharpen your study routine with new Gemini Notebook tools\" (15/09/2026): https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/\n- Google Workspace Updates (18/09/2026): https://workspaceupdates.googleblog.com/2026/09/new-back-to-school-features-and-learning-tools-available-in-Gemini-Notebook.html\n- Oferta para estudiantes: https://one.google.com/ai-student\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "09_radar_ai_act_art50",
+   "fecha": "2026-10-23",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/09_radar_ai_act_art50.mp4",
+    "sin_musica": "videos/09_radar_ai_act_art50_voz.mp4",
+    "portada": "portadas/09_radar_ai_act_art50_portada.png"
+   },
+   "version": "5bf767db54e7b0c4-d7b4d53f7e984e25",
+   "comentario_fijado": "¿Has visto ya etiquetas de \"contenido generado con IA\" en tus redes? ¿Dónde?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "El artículo 50 de la Ley de IA ya se aplica: avisar si es un chatbot y señalar los deepfakes. ¿Lo cumples? #IA #AIAct #Deepfakes #Europa · Voz IA",
+     "titulo": "Ley de IA europea: qué exige el artículo 50"
+    },
+    "instagram": {
+     "texto": "Desde el 02/08/2026 aplica el artículo 50 del AI Act: avisar de que hablas con una IA y marcar el contenido sintético y los deepfakes.\nMultas de hasta 15 M€ o el 3 % de la facturación mundial.\nPara sistemas que ya estaban en el mercado, la obligación de marcado técnico del contenido tiene margen hasta el 02/12/2026 (FAQ de la Comisión).\nLo que NO ha entrado aún: las obligaciones de \"alto riesgo\", aplazadas por el Digital Omnibus al 02/12/2027 (Anexo III) y al 02/08/2028 (Anexo I).\nPara casos concretos, consulta las FAQ de la Comisión Europea o a un profesional: esto no es asesoría legal.\nGuárdalo y compártelo con quien gestiona el chatbot o las redes de tu empresa.\n#AIAct #InteligenciaArtificial #Deepfakes #IA #Empresas\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Ley de IA europea: qué exige el artículo 50",
+     "texto": "Desde el 2 de agosto de 2026 se aplican las obligaciones de transparencia del artículo 50 del AI Act: informar cuando alguien interactúa con una IA y marcar el contenido sintético y los deepfakes. Las obligaciones de alto riesgo se aplazaron a 2027 y 2028. Este vídeo no es asesoría legal.\nFuentes:\n- Goodwin, \"EU AI Act transparency obligations now in force\" (03/08/2026): https://www.goodwinlaw.com/en/insights/publications/2026/08/alerts-technology-dpc-eu-ai-act-transparency-obligations-now-in-force\n- Comisión Europea, FAQ sobre el artículo 50: https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "10_mito_agua_energia",
+   "fecha": "2026-10-26",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/10_mito_agua_energia.mp4",
+    "sin_musica": "videos/10_mito_agua_energia_voz.mp4",
+    "portada": "portadas/10_mito_agua_energia_portada.png"
+   },
+   "version": "e8e3b4c5fd17772a-482f65c2a86256db",
+   "comentario_fijado": "¿Qué te preocupa más: el consumo por pregunta o cuántos centros de datos se están construyendo?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Una consulta a la IA gasta unas 5 gotas de agua (según Google). El problema real es la escala. #IA #MedioAmbiente #Energia #Sostenibilidad · Voz IA",
+     "titulo": "¿Cuánta agua gasta la IA por pregunta?"
+    },
+    "instagram": {
+     "texto": "Por prompt de texto (mediana, Gemini, dato de Google): 0,24 Wh, 0,26 ml de agua y 0,03 g de CO₂e.\nGoogle afirma que entre mayo de 2024 y mayo de 2025 redujo 33 veces la energía y 44 veces la huella de carbono por prompt.\nPero la IEA prevé que los centros de datos pasen de 415 TWh (2024) a unos 945 TWh (2030), con grandes incertidumbres: para 2035 sus escenarios van de 700 a 1.700 TWh.\nGuárdalo y compártelo para que el debate vaya de datos, no de botellas.\n#InteligenciaArtificial #Sostenibilidad #Energia #IA\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "¿Cuánta agua gasta la IA por pregunta?",
+     "texto": "Por consulta, una pregunta de texto a la IA gasta muy poca agua y energía (dato de Google, mediana de prompts de texto en Gemini). Pero el consumo total de los centros de datos se duplicará con creces hasta 2030, según la IEA.\nFuentes:\n- Google Cloud Blog, \"Measuring the environmental impact of AI inference\" (21/08/2025): https://cloud.google.com/blog/products/infrastructure/measuring-the-environmental-impact-of-ai-inference\n- Paper técnico, arXiv 2508.15734 (agosto 2025): https://arxiv.org/abs/2508.15734\n- IEA, \"Energy and AI\", resumen ejecutivo (abril 2025): https://www.iea.org/reports/energy-and-ai/executive-summary\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "11_como_tokens_contexto",
+   "fecha": "2026-10-28",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/11_como_tokens_contexto.mp4",
+    "sin_musica": "videos/11_como_tokens_contexto_voz.mp4",
+    "portada": "portadas/11_como_tokens_contexto_portada.png"
+   },
+   "version": "4063e1435982c960-e764ae98e69b1929",
+   "comentario_fijado": "¿Te ha pasado que la IA ignore una instrucción que le diste al principio?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "La IA trabaja en una \"mesa\" limitada: la ventana de contexto. Así evitas que olvide tus instrucciones. #IA #ChatGPT #Tokens #AprendeEnTikTok · Voz IA",
+     "titulo": "Tokens y ventana de contexto: por qué la IA olvida"
+    },
+    "instagram": {
+     "texto": "Token = trozo de texto. En inglés, 1 token ≈ 4 caracteres ≈ ¾ de palabra (OpenAI). En español la relación es distinta: compruébalo en el Tokenizer de OpenAI.\nLa ventana de contexto suma tu texto, tus documentos, la respuesta y, en los modelos de razonamiento, también su \"pensamiento\" interno.\n\"Lost in the Middle\" (2023): lo que está en medio de un contexto largo se aprovecha peor.\nTruco: instrucciones clave al inicio y repetidas al final.\nGuárdalo y compártelo con quien pega documentos enormes en el chat.\n#InteligenciaArtificial #ChatGPT #IA #Prompts\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Tokens y ventana de contexto: por qué la IA olvida",
+     "texto": "Qué son los tokens, qué es la ventana de contexto y por qué los modelos aprovechan peor la información que está en medio de un texto largo, con la analogía de la mesa de trabajo.\nFuentes:\n- OpenAI Help Center, \"Understanding and counting tokens\" (consultado el 28/09/2026): https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them\n- Liu et al., \"Lost in the Middle: How Language Models Use Long Contexts\" (arXiv 2023; TACL 2023): https://arxiv.org/abs/2307.03172\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "12_usalo_find_hub",
+   "fecha": "2026-10-30",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_verificacion",
+   "archivos": {
+    "con_musica": "videos/12_usalo_find_hub.mp4",
+    "sin_musica": "videos/12_usalo_find_hub_voz.mp4",
+    "portada": "portadas/12_usalo_find_hub_portada.png"
+   },
+   "version": "852bdba087cb6644-51a8931debc1a7d8",
+   "comentario_fijado": "¿Qué es lo que más pierdes: llaves, gafas o el mando de la tele?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Pídele a Gemini que recuerde dónde dejaste las llaves (Find Hub, Android 16+). ¿Ya te ha llegado? #Android #Gemini #IA #TipsIA · Voz IA",
+     "titulo": "Gemini y Find Hub: recuerda dónde dejaste las llaves"
+    },
+    "instagram": {
+     "texto": "Comando: \"Hey Google, recuerda en Find Hub que he dejado [objeto] en [lugar]\". Puedes añadir una foto del sitio. Requisitos: Android 16 o superior y país con Gemini y Find Hub.\nGoogle lo anunció el 1 de septiembre como función que llegaría \"pronto\": si aún no te aparece, es normal.\nExtra de accesibilidad (también anunciado como \"próximamente\"): Guided Vision en Gemini Live (Android 9+) describirá lo que ve la cámara y te guiará para encuadrar. Se podrá activar desde los atajos de Accesibilidad, el menú de TalkBack o los ajustes de Gemini. Aviso de Google: puede equivocarse; no es un dispositivo médico ni una ayuda de movilidad.\nGuárdalo y compártelo con quien siempre pierde las llaves.\n#Android #Gemini #Accesibilidad #IA\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Gemini y Find Hub: recuerda dónde dejaste las llaves",
+     "texto": "Novedad anunciada en el Android Drop de septiembre de 2026: pedirle a Gemini que recuerde dónde dejaste un objeto (Find Hub, Android 16+). Google la anunció como \"próximamente\": comprueba si ya está en tu móvil.\nFuente:\n- Google Blog, \"September Android Drop: Remember where you put things, ease motion sickness, and more\" (01/09/2026): https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  },
+  {
+   "id": "12b_radar_mistral",
+   "fecha": "2026-10-30",
+   "hora": "19:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "reserva",
+   "archivos": {
+    "con_musica": "videos/12b_radar_mistral.mp4",
+    "sin_musica": "videos/12b_radar_mistral_voz.mp4",
+    "portada": "portadas/12b_radar_mistral_portada.png"
+   },
+   "version": "43eb8d3273058f90-5250c8f21ed24517",
+   "comentario_fijado": "¿Usarías una IA hecha en Europa? ¿Por qué?",
+   "plataformas": {
+    "tiktok": {
+     "texto": "Mistral levanta 3.000 M€ para una IA europea. ¿Usarías una IA hecha en Europa? #IA #Mistral #Europa #IAsoberana · Voz IA",
+     "titulo": "Mistral: 3.000 M€ para una IA europea"
+    },
+    "instagram": {
+     "texto": "La francesa Mistral levantó 3.000 M€ con una valoración de más de 21.000 M€ tras la ronda (TechCrunch, 08/09/2026).\nSegún Mistral, es la mayor ronda de capital jamás cerrada por una tecnológica europea.\nPlan: 1 GW de cómputo en Europa para 2030.\nSi tus datos no deben salir de Europa, añade a Mistral a tu lista de proveedores para evaluar.\nGuárdalo y compártelo con quien decide los proveedores de IA en tu empresa.\n#InteligenciaArtificial #Mistral #Europa #IA\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo."
+    },
+    "youtube": {
+     "titulo": "Mistral: 3.000 M€ para una IA europea",
+     "texto": "Mistral levantó 3.000 millones de euros con una valoración de más de 21.000 millones tras la ronda. Plan: 1 GW de cómputo en Europa para 2030.\nFuente:\n- TechCrunch (08/09/2026): https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "inteligencia artificial",
+      "IA",
+      "IA en español"
+     ]
+    }
+   }
+  }
+ ]
+}
