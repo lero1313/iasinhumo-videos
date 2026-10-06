@@ -70,7 +70,7 @@
   },
   {
    "id": "03_radar_astra_agi",
-   "fecha": "2026-10-09",
+   "fecha": "2026-10-08",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -102,7 +102,7 @@
   },
   {
    "id": "04_usalo_privacidad_chatgpt",
-   "fecha": "2026-10-12",
+   "fecha": "2026-10-09",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_verificacion",
@@ -134,7 +134,7 @@
   },
   {
    "id": "05_radar_siri_ai",
-   "fecha": "2026-10-14",
+   "fecha": "2026-10-12",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -166,7 +166,7 @@
   },
   {
    "id": "06_mito_empleo",
-   "fecha": "2026-10-16",
+   "fecha": "2026-10-13",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -198,7 +198,7 @@
   },
   {
    "id": "07_como_agentes",
-   "fecha": "2026-10-19",
+   "fecha": "2026-10-14",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -230,7 +230,7 @@
   },
   {
    "id": "08_usalo_gemini_notebook",
-   "fecha": "2026-10-21",
+   "fecha": "2026-10-15",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -262,7 +262,7 @@
   },
   {
    "id": "09_radar_ai_act_art50",
-   "fecha": "2026-10-23",
+   "fecha": "2026-10-16",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -294,7 +294,7 @@
   },
   {
    "id": "10_mito_agua_energia",
-   "fecha": "2026-10-26",
+   "fecha": "2026-10-19",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -326,7 +326,7 @@
   },
   {
    "id": "11_como_tokens_contexto",
-   "fecha": "2026-10-28",
+   "fecha": "2026-10-20",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
@@ -358,7 +358,7 @@
   },
   {
    "id": "12_usalo_find_hub",
-   "fecha": "2026-10-30",
+   "fecha": "2026-10-21",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_verificacion",
@@ -390,7 +390,7 @@
   },
   {
    "id": "12b_radar_mistral",
-   "fecha": "2026-10-30",
+   "fecha": "2026-10-22",
    "hora": "19:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "reserva",
