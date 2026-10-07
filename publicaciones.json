@@ -71,7 +71,7 @@
   {
    "id": "03_radar_astra_agi",
    "fecha": "2026-10-08",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -98,12 +98,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "04_usalo_privacidad_chatgpt",
    "fecha": "2026-10-09",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_verificacion",
    "archivos": {
@@ -130,12 +135,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "05_radar_siri_ai",
    "fecha": "2026-10-12",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -162,12 +172,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "06_mito_empleo",
    "fecha": "2026-10-13",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -194,12 +209,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "07_como_agentes",
    "fecha": "2026-10-14",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -226,12 +246,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "08_usalo_gemini_notebook",
    "fecha": "2026-10-15",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -258,12 +283,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "09_radar_ai_act_art50",
    "fecha": "2026-10-16",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -290,12 +320,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "10_mito_agua_energia",
    "fecha": "2026-10-19",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -322,12 +357,17 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
    "id": "11_como_tokens_contexto",
    "fecha": "2026-10-20",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "pendiente_revision_humana",
    "archivos": {
@@ -354,6 +394,11 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   },
   {
@@ -391,7 +436,7 @@
   {
    "id": "12b_radar_mistral",
    "fecha": "2026-10-22",
-   "hora": "19:00",
+   "hora": "10:00",
    "zona": "Europe/Madrid",
    "estado_inicial": "reserva",
    "archivos": {
@@ -418,7 +463,18 @@
       "IA en español"
      ]
     }
+   },
+   "horas": {
+    "instagram": "10:00",
+    "youtube": "16:00",
+    "tiktok": "18:00"
    }
   }
- ]
+ ],
+ "horas_por_red": {
+  "instagram": "10:00",
+  "youtube": "16:00",
+  "tiktok": "18:00"
+ },
+ "notas_horario": "Desde el 08/10/2026 cada red publica a su mejor hora (Madrid, L-V): Instagram 10:00, YouTube 16:00, TikTok 18:00. Fuente: mejores horas de Metricool por red. 'hora' = primera publicación del día."
 }
