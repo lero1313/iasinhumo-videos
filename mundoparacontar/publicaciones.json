@@ -1,0 +1,42 @@
+{
+ "marca": "Mundo para contar",
+ "base_url": "https://raw.githubusercontent.com/lero1313/iasinhumo-videos/main/mundoparacontar/",
+ "metricool_blog_id": "PENDIENTE",
+ "redes": [
+  "youtube"
+ ],
+ "notas": "Fuente única para el agente de publicación de Mundo para contar (solo YouTube por ahora). La oficina añade aquí cada vídeo al subirlo; 'version' cambia si cambia el archivo. Rutas relativas a base_url.",
+ "horas_por_red": {
+  "youtube": "17:00"
+ },
+ "videos": [
+  {
+   "id": "01_llivia",
+   "fecha": null,
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/01_llivia.mp4",
+    "portada": "portadas/01_llivia_portada.png"
+   },
+   "version": "b1d0f4a45ab4c083",
+   "comentario_fijado": "¿Conocías otro pueblo con una historia así?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "El pueblo español rodeado por Francia 🇪🇸🇫🇷 Llívia",
+     "texto": "Llívia es un pedazo de España rodeado por Francia. La razón está en el Tratado de los Pirineos de 1659: España cedió el Rosellón y 33 pueblos de la Cerdaña, pero Llívia tenía el título de villa, no de pueblo, y se quedó en España (Tratado de Llívia, 1660).\n\nFuentes:\n- Xataka: https://www.xataka.com/magnet/hay-ciudad-que-se-quedo-espana-palabra-hoy-trozo-territorio-espanol-rodeado-francia\n- Billiken: https://billiken.lat/el-mundo/llivia-el-increible-pueblo-de-espana-que-esta-totalmente-rodeado-por-francia/\n- Moncloa.com: https://www.moncloa.com/2025/08/21/playa-francia-costa-brava-3256998/\n- Mapas: Natural Earth (dominio público)\n\n#geografia #historia #mapas #españa #francia #curiosidades\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "España",
+      "Francia",
+      "Llívia",
+      "curiosidades"
+     ]
+    }
+   }
+  }
+ ]
+}
