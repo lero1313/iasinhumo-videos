@@ -150,6 +150,34 @@
    }
   },
   {
+   "id": "06_canarias_hora",
+   "fecha": "2026-11-20",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/06_canarias_hora.mp4",
+    "portada": "portadas/06_canarias_hora_portada.png"
+   },
+   "version": "cc22b97c4986c30e",
+   "comentario_fijado": "¿Tú cambiarías la hora de la Península o la dejarías así?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "Por qué en Canarias es una hora menos 🇪🇸🕐",
+     "texto": "El real decreto de 1900 puso la hora de Greenwich en la Península y Baleares, pero se olvidó de Canarias. Las islas siguieron con su hora solar hasta 1922, cuando otro decreto las puso una hora por detrás. En 1940 la Península adelantó a la hora de Europa central y Canarias también adelantó la suya, así que la diferencia se mantuvo.\n\nFuentes:\n- Universidad de Las Palmas de Gran Canaria: «Una hora menos en Canarias»: https://mdc.ulpgc.es/files/original/3e56caa413d49fb92d77af4146962383e020b9d7.pdf\n- Vozpópuli: https://www.vozpopuli.com/espana/canarias/el-decreto-olvidado-que-regalo-una-hora-menos-a-canarias.html\n- Wikipedia: Time in Spain: https://en.wikipedia.org/wiki/Time_in_Spain\n- Euronews: https://es.euronews.com/2026/03/27/bulo-huso-horario-nazi-espana-roba-sueno-alinea-europa\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble)\n\n#geografía #historia #mapas #canarias #españa #horario\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "Canarias",
+      "España",
+      "horario",
+      "curiosidades"
+     ]
+    }
+   }
+  },
+  {
    "id": "07_baarle_enclaves",
    "fecha": "2026-11-21",
    "hora": "17:00",
