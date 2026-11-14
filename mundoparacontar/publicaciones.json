@@ -148,6 +148,34 @@
      ]
     }
    }
+  },
+  {
+   "id": "07_baarle_enclaves",
+   "fecha": "2026-11-21",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/07_baarle_enclaves.mp4",
+    "portada": "portadas/07_baarle_enclaves_portada.png"
+   },
+   "version": "4bd47f3e5876a291",
+   "comentario_fijado": "¿Vivirías en una casa con una frontera en medio?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "La frontera que pasa por dentro de las casas 🇧🇪🇳🇱",
+     "texto": "Baarle son dos municipios mezclados: Baarle-Hertog (Bélgica) y Baarle-Nassau (Países Bajos). Bélgica tiene allí 22 enclaves dentro de Países Bajos, y dentro de ellos hay 7 enclaves neerlandeses. La frontera no quedó fijada del todo hasta 1995, y en las casas partidas el país lo decide la puerta principal.\n\nFuentes:\n- Swissinfo: https://www.swissinfo.ch/spa/c%c3%b3mo-gestionar-una-pandemia-en-baarle-el-pueblo-de-las-mil-fronteras/46583500\n- La Opinión (BBC): https://laopinion.com/?p=1974114\n- Touring (en neerlandés): https://www.touring.be/nl/node/4453\n- Dutch Genealogy: https://www.dutchgenealogy.nl/the-bizarre-borders-of-baarle/\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble)\n\n#geografía #mapas #bélgica #paísesbajos #baarle #fronteras\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "mapas",
+      "Bélgica",
+      "Países Bajos",
+      "Baarle",
+      "fronteras",
+      "curiosidades"
+     ]
+    }
+   }
   }
  ]
 }
