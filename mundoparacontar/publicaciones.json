@@ -232,6 +232,202 @@
      ]
     }
    }
+  },
+  {
+   "id": "09_trevino",
+   "fecha": "2026-11-23",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/09_trevino.mp4",
+    "portada": "portadas/09_trevino_portada.png"
+   },
+   "version": "7e3702944aeb988c",
+   "comentario_fijado": "¿Treviño debería seguir en Burgos o pasar a Álava?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "El trozo de Castilla rodeado por el País Vasco 🇪🇸🤯 Burgos vs Álava",
+     "texto": "El Condado de Treviño pertenece a Burgos, pero está completamente rodeado por Álava. Fundado hacia 1161 por Sancho VI de Navarra, pasó a Castilla en 1200 y se quedó en Burgos con la división provincial de 1833. Hoy la mayoría de los partidos de Álava quieren integrarlo, y Burgos y la Junta de Castilla y León defienden que siga como está.\n\nFuentes:\n- Wikipedia: https://en.wikipedia.org/wiki/Trevi%C3%B1o_enclave\n- Wikipedia: https://en.wikipedia.org/wiki/Condado_de_Trevi%C3%B1o\n- Wikipedia: https://en.wikipedia.org/wiki/Trevi%C3%B1o_enclave_dispute\n- Foro-ciudad: https://www.foro-ciudad.com/burgos/condado-de-trevino/habitantes.html\n- Foro-ciudad: https://www.foro-ciudad.com/burgos/la-puebla-de-arganzon/habitantes.html\n- Orain: https://orain.eus/es/politica/2026/10/15/condado-trevino-la-puebla-arganzon-aprueban-solicitar-una-consulta-su-integracion-en-alava/\n- elDiario.es: https://www.eldiario.es/euskadi/alaves-abascal-lleva-campana-castilla-leon-trevino-defender-burgos-medio-protestas_1_13058586.html\n- Universidad de Burgos: https://riubu.ubu.es/bitstream/handle/10259.4/1861/0211-8998_n193_p387-392.pdf?sequence=1\n- El Demócrata: https://www.democrata.es/politica/la-junta-de-castilla-y-leon-recurrira-a-todas-las-vias-para-salvaguardar-la-integridad-territorial-ante-la-consulta-en-trevino/\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble) y Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)\n\n#geografía #historia #mapas #españa #treviño #burgos #álava\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "Treviño",
+      "Burgos",
+      "Álava",
+      "enclaves"
+     ]
+    }
+   }
+  },
+  {
+   "id": "10_panama_colombia",
+   "fecha": "2026-11-24",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/10_panama_colombia.mp4",
+    "portada": "portadas/10_panama_colombia_portada.png"
+   },
+   "version": "084136c8b510d88a",
+   "comentario_fijado": "¿Sabías que Panamá había sido parte de Colombia?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "Cuando Panamá era parte de Colombia 🇵🇦🇨🇴🤯",
+     "texto": "Hasta 1903, Panamá formaba parte de Colombia. Tras el rechazo colombiano al tratado del canal, Panamá declaró su independencia el 3 de noviembre de 1903 y, quince días después, Estados Unidos obtuvo el control de la Zona del Canal, que pasó a Panamá el 31 de diciembre de 1999.\n\nFuentes:\n- Office of the Historian: https://www.history.state.gov/milestones/1899-1913/panama-canal\n- Wikipedia: https://www.wikiwand.com/en/articles/Independence_of_Panama\n- Britannica, Hay–Bunau-Varilla Treaty: https://britannica.com/event/Hay-Bunau-Varilla-Treaty\n- Britannica, Timeline of the Panama Canal: https://www.britannica.com/story/timeline-and-map-of-the-panama-canal\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble) y Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)\n\n#geografía #historia #mapas #panamá #colombia #canaldepanamá\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "Panamá",
+      "Colombia",
+      "Canal de Panamá",
+      "curiosidades"
+     ]
+    }
+   }
+  },
+  {
+   "id": "11_kaliningrado",
+   "fecha": "2026-11-25",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/11_kaliningrado.mp4",
+    "portada": "portadas/11_kaliningrado_portada.png"
+   },
+   "version": "94ba2dcfbe8d69e2",
+   "comentario_fijado": "¿Conocías este pedazo de Rusia en mitad de Europa?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "El trozo de Rusia que no toca Rusia 🇷🇺🤯 Kaliningrado",
+     "texto": "Kaliningrado, la antigua Königsberg fundada en 1255, fue capital de Prusia Oriental y la ciudad de Kant. En 1945 pasó a la Unión Soviética y hoy es un exclave ruso entre Polonia y Lituania, a 65 km de Bielorrusia por el corredor de Suwałki.\n\nFuentes:\n- Britannica, Kaliningrad: https://www.britannica.com/place/Kaliningrad\n- Wikipedia: https://en.wikipedia.org/wiki/Kaliningrad\n- Wikipedia: https://en.wikipedia.org/wiki/Kaliningrad_Oblast\n- Wikipedia: https://en.wikipedia.org/wiki/Suwa%C5%82ki_Gap\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble) y Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)\n\n#geografía #historia #mapas #kaliningrado #rusia #europa\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "Kaliningrado",
+      "Rusia",
+      "Königsberg",
+      "exclave"
+     ]
+    }
+   }
+  },
+  {
+   "id": "12_provincias_1833",
+   "fecha": "2026-11-26",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/12_provincias_1833.mp4",
+    "portada": "portadas/12_provincias_1833_portada.png"
+   },
+   "version": "05dc7db336e9a440",
+   "comentario_fijado": "¿Cambiarías alguna frontera de tu provincia?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "Por qué España tiene estas provincias 🇪🇸🤯",
+     "texto": "El 30 de noviembre de 1833, el ministro Javier de Burgos firmó el real decreto que dividió España en 49 provincias, basado en gran parte en la división de 1822. En 1927 Canarias se partió en dos y llegamos a las 50 de hoy.\n\nFuentes:\n- E. Orduña Rebollo, Fundación Democracia y Gobierno Local: https://gobiernolocal.org/publicaciones/2025/03_claves47_capitulo3.pdf\n- Wikipedia: https://en.wikipedia.org/wiki/1833_territorial_division_of_Spain\n- Universidad de La Laguna: https://riull.ull.es/xmlui/bitstream/handle/915/6567/La+Dictadura+de+Primo+de+Rivera.+Una+solucion+al+Pleito+Insular..pdf?sequence=1\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble) y Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)\n\n#geografía #historia #mapas #españa #provincias #1833\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "España",
+      "provincias",
+      "Javier de Burgos",
+      "curiosidades"
+     ]
+    }
+   }
+  },
+  {
+   "id": "13_chile_alargado",
+   "fecha": "2026-11-27",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/13_chile_alargado.mp4",
+    "portada": "portadas/13_chile_alargado_portada.png"
+   },
+   "version": "40b6096980fbc66c",
+   "comentario_fijado": "¿Te imaginabas que Chile fuera tan largo?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "Por qué Chile es tan alargado 🇨🇱🤯",
+     "texto": "Chile mide unos 4.270 km de norte a sur y unos 200 km de ancho medio. La cordillera de los Andes marca su frontera con Argentina desde el tratado de 1881, y la Guerra del Pacífico le dio Tarapacá y Antofagasta.\n\nFuentes:\n- Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-article-94271.html\n- Wikipedia: https://www.wikiwand.com/en/articles/Geography_of_Chile\n- Memoria Chilena, Tratado de Límites de 1881: https://www.memoriachilena.gob.cl/602/w3-article-92197.html\n- Britannica, War of the Pacific: https://www.britannica.com/event/War-of-the-Pacific\n- Wikipedia: https://en.wikipedia.org/wiki/Treaty_of_Peace_and_Friendship_(1904)\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble) y Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)\n\n#geografía #historia #mapas #chile #andes #latinoamérica\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "Chile",
+      "Andes",
+      "Guerra del Pacífico",
+      "curiosidades"
+     ]
+    }
+   }
+  },
+  {
+   "id": "14_frontera_canada_eeuu",
+   "fecha": "2026-11-28",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/14_frontera_canada_eeuu.mp4",
+    "portada": "portadas/14_frontera_canada_eeuu_portada.png"
+   },
+   "version": "0fc5ba5d3abd3f9a",
+   "comentario_fijado": "¿Qué otra frontera curiosa te gustaría ver?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "La frontera más larga del mundo 🇨🇦🇺🇸🤯 Canadá vs EE. UU.",
+     "texto": "La frontera entre Canadá y Estados Unidos mide 8.891 km, según la International Boundary Commission. Gran parte sigue el paralelo 49, fijado en 1818 y 1846, y en Alaska el meridiano 141. Y esconde un rincón curioso: el Northwest Angle.\n\nFuentes:\n- International Boundary Commission, datos curiosos: https://internationalboundarycommission.org/en/the-boundary-and-you/interesting-facts.php\n- International Boundary Commission, sección del meridiano 141: https://www.internationalboundarycommission.org/en/maps-coordinates/maps/section-h.php\n- Wikipedia: https://www.wikiwand.com/en/articles/US-Canada_border\n- The Canadian Encyclopedia, Oregon Treaty: https://www.thecanadianencyclopedia.ca/en/article/oregon-treaty\n- National Archives: https://archives.gov/milestone-documents/check-for-the-purchase-of-alaska\n- Wikipedia: https://www.wikiwand.com/en/articles/Northwest_Angle\n- MNopedia: https://www.mnhs.org/mnopedia/search/index/thing/minnesota-state-boundaries\n- Star Tribune, el mapa de 1755 usado en 1783: https://www.startribune.com/historian-battles-the-legend-of-minnesota-s-northwest-angle/504269642\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble) y Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)\n\n#geografía #historia #mapas #canadá #estadosunidos #fronteras\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "Canadá",
+      "Estados Unidos",
+      "fronteras",
+      "récords"
+     ]
+    }
+   }
+  },
+  {
+   "id": "15_olivenza",
+   "fecha": "2026-11-29",
+   "hora": "17:00",
+   "zona": "Europe/Madrid",
+   "estado_inicial": "pendiente_revision_humana",
+   "archivos": {
+    "con_musica": "videos/15_olivenza.mp4",
+    "portada": "portadas/15_olivenza_portada.png"
+   },
+   "version": "20ca302f00cff2c2",
+   "comentario_fijado": "¿Conocías la historia de Olivenza?",
+   "plataformas": {
+    "youtube": {
+     "titulo": "Olivenza, ¿española o portuguesa? 🇪🇸🇵🇹🤯 España vs Portugal",
+     "texto": "Olivenza fue portuguesa desde 1297 y pasó a España con el Tratado de Badajoz de 1801, tras la Guerra de las Naranjas. España considera que es española; Portugal no reconoce esa soberanía, aunque su Gobierno dice que el tema no está en su agenda.\n\nFuentes:\n- El Español, Guerra de las Naranjas: https://elespanol.com/historia/20231016/guerra-espana-portugal-solo-dias-resultado-enfurecio-napoleon-bonaparte/801670031_0.html\n- elDiario.es: https://www.eldiario.es/extremadura/politica/ministro-exteriores-portugues-olivenza-no-agenda_1_11668756.amp.html\n- Acta Final del Congreso de Viena: https://e-archiv.li/files/1815_06_09_Wiener_Kongress_Akte.pdf\n- Diário de Notícias: https://www.dn.pt/internacional/madrid-defende-olivenca-espanhola-e-promocao-da-sua-singularidade\n- Junta de Extremadura, Decreto 52/2009: https://doe.juntaex.es/pdfs/doe/2009/540o/09040055.pdf\n- Wikipedia: https://en.wikipedia.org/wiki/Treaty_of_Badajoz_(1801)\n- CIA World Factbook vía IndexMundi, Portugal no reconoce la soberanía española: https://www.indexmundi.com/Portugal/disputes_international.html\n\nMapas: Natural Earth (dominio público) · Imágenes de satélite: NASA Earth Observatory (Blue Marble) y Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)\n\n#geografía #historia #mapas #olivenza #españa #portugal\n\nVoz sintética generada con IA · Datos con fuente en cada vídeo.",
+     "tags": [
+      "geografía",
+      "historia",
+      "mapas",
+      "Olivenza",
+      "España",
+      "Portugal",
+      "fronteras"
+     ]
+    }
+   }
   }
  ]
 }
