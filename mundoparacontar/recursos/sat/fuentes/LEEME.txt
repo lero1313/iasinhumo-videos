@@ -1,0 +1,3 @@
+Fuentes usadas por el motor de Mundo para contar:
+- NotoColorEmoji.ttf (Google Noto Emoji) · SIL Open Font License 1.1 / Apache 2.0 · https://github.com/googlefonts/noto-emoji
+- Lora-Variable.ttf (Cyreal) · SIL Open Font License 1.1 · https://github.com/cyrealtype/Lora-Cyrillic
